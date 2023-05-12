@@ -1,0 +1,16 @@
+{
+  "name": "example-app",
+  "version": "1.0.0",
+  "description": "An example application - make sure to configure this yourself.",
+  "main": "discord-bot/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pebblehost",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.15.1",
+    "discord-buttons": "^4.0.0-deprecated"
+  },
+  "nodeVersion": "17.9.1"
+}
